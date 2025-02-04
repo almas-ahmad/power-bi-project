@@ -35,11 +35,14 @@ Explore insights using interactive filters and visuals.
 **Tools & Technologies Used**
 
 Power BI: For data visualization and dashboard development.
+
 SQL: Data extraction and transformation.
+
 Excel: Data cleaning and preprocessing.
 
 **Conclusion**
 This project demonstrates the power of Power BI in analyzing large datasets and providing actionable insights for business decisions. The dashboard is intuitive, allowing users to explore data effectively and make informed strategic choices.
 
 📌 Author: Almas Ahmad
+
 📌 GitHub: almas-ahmad
