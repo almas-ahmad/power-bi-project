@@ -6,17 +6,26 @@ This Power BI project analyzes the sales performance of the Global Superstore da
 **Features**
 
 Sales Performance Analysis: Track sales trends and revenue across different time periods.
+
 Regional Insights: Identify top-performing countries and regions.
+
 Product Category Analysis: Understand sales distribution across categories and sub-categories.
+
 Profitability Metrics: Evaluate profit margins and high-revenue products.
+
 Interactive Visuals: Filterable charts and graphs for deep-diving into data
 
 **Dataset Details**
 
 The dataset includes transactional data from the Global Superstore, covering:
+
 Order details (Order ID, Date, Customer, Segment)
+
 Product details (Category, Sub-category, Product Name)
+
+
 Sales, Discount, and Profit information
+
 Geographic data (Country, Region, City)
 
 **Insights**
